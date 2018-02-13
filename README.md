@@ -1,5 +1,4 @@
 # MediaRouter
-
 This sample app shows how to use Android's MediaRouter to add a Cast button to a Google Cast sender app. There are 3 ways to add a Cast button: MediaRouterActionProvider, MediaRouteButton or a custom button.
 Note this sample app does not control a Google Cast device like Chromecast; it is only meant to show how to add a Cast button to an Android app.
 
